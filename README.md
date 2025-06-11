@@ -36,8 +36,8 @@ The database includes the following tables:
 3. Customize the dataset or expand features as needed for your use case.  
 
 ## 🧾 Files Included
-- **ER Diagram** - [Click](https://github.com/moh5775/Database_Project-/blob/main/ER%20diagram.png)
-- **Schema Diagram** - [Click](https://github.com/moh5775/Database_Project-/blob/main/Schema%20Diagram.png)
+- [**ER Diagram**](https://github.com/moh5775/Database_Project-/blob/main/ER%20diagram.png) 
+- [**Schema Diagram**](https://github.com/moh5775/Database_Project-/blob/main/Schema%20Diagram.png) 
 - [**Report.docx**](https://github.com/moh5775/Database_Project-/blob/main/Report.docx)
 - [**Report.pdf**](https://github.com/moh5775/Database_Project-/blob/main/Report.pdf)
 - [**MySQL.sql**](https://github.com/moh5775/Database_Project-/blob/main/MySQL.sql)
