@@ -44,7 +44,7 @@ The database includes the following tables:
 - [**MySQL.pdf**](https://github.com/moh5775/Database_Project-/blob/main/MySQL.pdf)
   
 
-##SQL Code
+## SQL Code
 ```MySQL
 -- 1. Admins
 CREATE TABLE Admins (
