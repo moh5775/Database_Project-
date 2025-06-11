@@ -44,7 +44,7 @@ The database includes the following tables:
 - [**MySQL.pdf**](https://github.com/moh5775/Database_Project-/blob/main/MySQL.pdf)
   
 
-
+##SQL Code
 ```MySQL
 -- 1. Admins
 CREATE TABLE Admins (
@@ -341,5 +341,6 @@ ORDER BY avg_rating DESC
 LIMIT 8; -- Shows the top 8 highest-rated books.
 
 ```
+
 ## 🧠 Conclusion
 This project demonstrates the core concepts of database design and SQL querying in a real-world context. It is suitable for academic use, small business prototypes, or further development into a complete bookstore management system.
