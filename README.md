@@ -46,7 +46,8 @@ The database includes the following tables:
 ## 🧠 Conclusion
 This project demonstrates the core concepts of database design and SQL querying in a real-world context. It is suitable for academic use, small business prototypes, or further development into a complete bookstore management system.
 
-`-- 1. Admins
+```
+-- 1. Admins
 CREATE TABLE Admins (
     admin_id INT PRIMARY KEY,
     name VARCHAR(100),
@@ -250,9 +251,6 @@ INSERT INTO Order_Items VALUES
 (18, 13, 18, 1, 12.95, 12.95);
 
 
-
-
-
 INSERT INTO Reviews VALUES
 (1, 1, 1, 5, 'Amazing book!', '01-04-2024'),
 (2, 2, 2, 4, 'Very helpful.', '01-04-2024'),
@@ -272,8 +270,6 @@ INSERT INTO Reviews VALUES
 (16, 16, 16, 4, 'Lovely writing.', '08-04-2024'),
 (17, 17, 17, 2, 'Confusing ending.', '09-04-2024'),
 (18, 18, 18, 5, 'Truly inspiring.', '09-04-2024');
-
-
 
 
 select * from Books; -- Shows all book records.
@@ -344,4 +340,4 @@ FROM Reviews
 GROUP BY book_id 
 ORDER BY avg_rating DESC
 LIMIT 8; -- Shows the top 8 highest-rated books.
-`
+```
