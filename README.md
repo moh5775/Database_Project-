@@ -340,4 +340,4 @@ FROM Reviews
 GROUP BY book_id 
 ORDER BY avg_rating DESC
 LIMIT 8; -- Shows the top 8 highest-rated books.
-```
+
