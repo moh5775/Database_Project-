@@ -38,7 +38,7 @@ The database includes the following tables:
 ## 🧾 Files Included
 - `bookstore_schema.sql` – SQL code to create and populate tables  
 - `queries.sql` – All queries used for analysis  
-- `README.md` – Project documentation (this file)  
-
+- `README.md` – Project documentation (this file)
+  
 ## 🧠 Conclusion
 This project demonstrates the core concepts of database design and SQL querying in a real-world context. It is suitable for academic use, small business prototypes, or further development into a complete bookstore management system.
